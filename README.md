@@ -75,3 +75,7 @@ With Deployments you can easily edit any field/property of the POD template. Sin
 * ``kubectl get nodes $node_name -o yaml``
 
 * ``kubectl describe node $node_name``
+
+### Creating Pods
+
+
