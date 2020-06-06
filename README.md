@@ -62,14 +62,14 @@ With Deployments you can easily edit any field/property of the POD template. Sin
 
 ## Linux Academy 
 
-``kubectl api-resources -o name
+* ``kubectl api-resources -o name``
 
-kubectl get pods -n kube-system
+* ``kubectl get pods -n kube-system``
 
-kubectl get nodes
+* ``kubectl get nodes``
 
-kubectl get nodes $node_name
+* ``kubectl get nodes $node_name``
 
-kubectl get nodes $node_name -o yaml
+* ``kubectl get nodes $node_name -o yaml``
 
-kubectl describe node $node_name``
+* ``kubectl describe node $node_name``
