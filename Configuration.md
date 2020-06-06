@@ -9,3 +9,5 @@
 * Create & consume Secrets
 
 * Understand ServiceAccounts
+
+    <https://kubernetes.io/docs/tasks/configure-pod-container/security-context/>
