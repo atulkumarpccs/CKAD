@@ -62,6 +62,8 @@ With Deployments you can easily edit any field/property of the POD template. Sin
 
 ## Linux Academy 
 
+### Kubernetes API primitives (Objects)
+
 * ``kubectl api-resources -o name``
 
 * ``kubectl get pods -n kube-system``
