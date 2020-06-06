@@ -119,3 +119,10 @@ With Deployments you can easily edit any field/property of the POD template. Sin
 * You can also use -n to specify a namespace when using kubectl describe.
 
 ``kubectl describe pod my-ns-pod -n my-ns``
+
+
+### Basic Container Configuration
+
+<https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/>
+
+
